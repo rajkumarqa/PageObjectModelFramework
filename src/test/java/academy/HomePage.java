@@ -49,8 +49,8 @@ public class HomePage extends base {
 	{
 		Object[][] data= new Object[2][2];
 		
-		data[0][0]="Test@gmail.com";
-		data[0][1]="Test";
+		data[0][0]="Test1@gmail.com";
+		data[0][1]="Test1";
 		
 		data[1][0]="Test2@gmail.com";
 		data[1][1]="Test2";
